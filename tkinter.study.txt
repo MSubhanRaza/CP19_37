@@ -1,0 +1,1 @@
+tkinter a GUI of phyton.Phyton when combined with tkinter and provide a easy way to creat GUI application.
