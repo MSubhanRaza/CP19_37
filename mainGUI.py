@@ -1,4 +1,18 @@
 
+Conversation opened. 1 read message.
+
+Skip to content
+Using Mohammad Ali Jinnah University Mail with screen readers
+(no subject)
+
+MUHAMMAD GULRAIZ RAJA
+Attachments
+6:31 AM (4 hours ago)
+to sp19bsse0047, me
+
+
+Attachments area
+
 import Tkinter as tk
 import sys
 from gpiozero import LED
@@ -271,4 +285,3 @@ root.mainloop()
 
 def exit():
     root.destroy()
-
